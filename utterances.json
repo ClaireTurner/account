@@ -378,5 +378,13 @@
       "Why are console pages not loading?",
       "can't load console pages",
       "not loading console pages"
+    ],
+    "remove-pi": [
+      "delete my personal data",
+      "Please remove all my personal data",
+      "Remove all of my personal data",
+      "Is all my personal information removed",
+      "can you delete mu personal information?
+      "remove data as per GDPR"
     ]
 }
